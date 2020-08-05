@@ -11,5 +11,5 @@ Previous studies of the END only considered varying parameters in its isolation.
 I found that in idealized END-Merger systems, the disk stars could be as much as four times more aligned than in the isolated case.  This produced other dynamically interesting results as well, summarized in the paper above.
 
 ## The Restricted 3-body Problem
-Within the END-Merger system, the disk particle can be treated as massless in compararision to a massive perturbing SMBH around the primary SMBH.  This motivates the restricted 3-body problem.  In my attempts at analytic solutions, I have approached the problem with the unusal complications of a a massive non-planar perturbing body while the disk particle can have arbitary eccentricity. 
+Within the END-Merger system, the disk particle can be treated as massless in compararision to a massive perturbing SMBH around the primary SMBH.  This motivates the restricted 3-body problem.  For our setup, the system has the unusal complications of a a massive non-planar perturbing body while the disk particle can have arbitary eccentricity. 
 
