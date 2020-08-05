@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/research/</loc>
+    <loc>/research/</loc>
   </url>
   
   <url>
-    <loc>http://example.alexander_rodriguez.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

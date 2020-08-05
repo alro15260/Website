@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Rodriguez</title>
-    <link>http://example.alexander_rodriguez.com/</link>
+    <link>/</link>
     <description>Recent content on Alexander Rodriguez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.alexander_rodriguez.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.alexander_rodriguez.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.alexander_rodriguez.com/about/</guid>
+      <guid>/about/</guid>
       <description>I am currently a fourth-year undergraduate in Astrophysics and Mathematics at the University of Colorado Boulder.
 I am mostly interested in Galaxy Dynamics, Galaxy Nuclei, and Cosmology. My previous work has studied stellar systems around a host SMBH in the presence of a binary SMBH. This has led to my inerests in Galaxy Evolution and Cosmology and I am eager to explore larger scale systems.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.alexander_rodriguez.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.alexander_rodriguez.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>alro1526@colorado.edu</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://example.alexander_rodriguez.com/research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.alexander_rodriguez.com/research/</guid>
+      <guid>/research/</guid>
       <description>I am broadly interested in N-body simulations and dynamics of complex systems. So far I have studied systems on only parsec scales but I am eager to extend my study to larger galactic and cosmological systems in the future.
 Eccentric Nuclear Disks and Mergers Galactic Nuclei provide an interesting laboratory for dynamicists. Within Galactic Nuclei, the host SMBH will have a disk of stars in its orbit. Previous work has found that some of these SMBH systems will produce disks of stars on apsidally-aligned eccentric oribts, or an eccentric nuclear disk (END).</description>
     </item>
